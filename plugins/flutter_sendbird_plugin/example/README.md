@@ -1,6 +1,6 @@
-# connect
+# flutter_sendbird_plugin_example
 
-Mobile application for Connect service
+Demonstrates how to use the flutter_sendbird_plugin plugin.
 
 ## Getting Started
 

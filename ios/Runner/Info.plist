@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CFBundleDevelopmentRegion</key>
+	<string>en</string>
+	<key>CFBundleDisplayName</key>
+	<string>Rehabit</string>
+	<key>CFBundleExecutable</key>
+	<string>$(EXECUTABLE_NAME)</string>
+	<key>CFBundleIdentifier</key>
+	<string>$(PRODUCT_BUNDLE_IDENTIFIER)</string>
+	<key>CFBundleInfoDictionaryVersion</key>
+	<string>6.0</string>
+	<key>CFBundleName</key>
+	<string>com.neofect.connect</string>
+	<key>CFBundlePackageType</key>
+	<string>APPL</string>
+	<key>CFBundleShortVersionString</key>
+	<string>$(FLUTTER_BUILD_NAME)</string>
+	<key>CFBundleSignature</key>
+	<string>????</string>
+	<key>CFBundleVersion</key>
+	<string>$(FLUTTER_BUILD_NUMBER)</string>
+	<key>Fabric</key>
+	<dict>
+		<key>APIKey</key>
+		<string>4b5fac6f8fa217a4d5f0dea3e58a17f0ea78254f</string>
+		<key>Kits</key>
+		<array>
+			<dict>
+				<key>KitInfo</key>
+				<dict/>
+				<key>KitName</key>
+				<string>Crashlytics</string>
+			</dict>
+		</array>
+	</dict>
+	<key>ITSAppUsesNonExemptEncryption</key>
+	<false/>
+	<key>LSRequiresIPhoneOS</key>
+	<true/>
+	<key>NSAppTransportSecurity</key>
+	<dict>
+		<key>NSAllowsArbitraryLoads</key>
+		<true/>
+		<key>NSAllowsArbitraryLoadsInWebContent</key>
+		<true/>
+	</dict>
+	<key>NSAppleMusicUsageDescription</key>
+	<string>To have videocall with customers, music is needed.</string>
+	<key>NSCalendarsUsageDescription</key>
+	<string>To make appointment with customers, calendar is needed.</string>
+	<key>NSPhotoLibraryUsageDescription</key>
+	<string>Profile image uses the photo library.</string>
+	<key>NSCameraUsageDescription</key>
+	<string>VideoCall uses the camera.</string>
+	<key>NSContactsUsageDescription</key>
+	<string>To communicate with customers, contacts are needed.</string>
+	<key>NSLocationAlwaysUsageDescription</key>
+    <string>Offered services can be differed depends on customers' location.</string>
+    <key>NSLocationWhenInUseUsageDescription</key>
+    <string>Offered services can be differed depends on customers' location.</string>
+	<key>NSLocationAlwaysAndWhenInUseUsageDescription</key>
+	<string>Offered services can be differed depends on customers' location.</string>
+	<key>NSMicrophoneUsageDescription</key>
+	<string>VideoCall uses the microphone.</string>
+	<key>NSMotionUsageDescription</key>
+	<string>To check the motion of customers, motion is needed.</string>
+	<key>NSSpeechRecognitionUsageDescription</key>
+	<string>To have videocall with customers, speech recognition is needed.</string>
+	<key>UIBackgroundModes</key>
+	<array>
+		<string>fetch</string>
+		<string>remote-notification</string>
+	</array>
+	<key>UILaunchStoryboardName</key>
+	<string>LaunchScreen</string>
+	<key>UIMainStoryboardFile</key>
+	<string>Main</string>
+	<key>UISupportedInterfaceOrientations</key>
+	<array>
+		<string>UIInterfaceOrientationPortrait</string>
+		<string>UIInterfaceOrientationLandscapeLeft</string>
+	</array>
+	<key>UISupportedInterfaceOrientations~ipad</key>
+	<array>
+		<string>UIInterfaceOrientationPortrait</string>
+		<string>UIInterfaceOrientationPortraitUpsideDown</string>
+		<string>UIInterfaceOrientationLandscapeLeft</string>
+		<string>UIInterfaceOrientationLandscapeRight</string>
+	</array>
+	<key>UIUserInterfaceStyle</key>
+	<string>Light</string>
+	<key>UIViewControllerBasedStatusBarAppearance</key>
+	<true/>
+	<key>io.flutter.embedded_views_preview</key>
+	<true/>
+	<key>CFBundleURLTypes</key>
+    <array>
+      <dict>
+      <key>CFBundleTypeRole</key>
+      <string>Editor</string>
+      <key>CFBundleURLSchemes</key>
+      <array>
+        <string>fb343755610045118</string>
+        <string>com.googleusercontent.apps.214487446845-v6a139huimcdkkjvkm1rvd3bed5gb406</string>
+      </array>
+      </dict>
+    </array>
+    <key>FacebookAppID</key>
+    <string>343755610045118</string>
+    <key>FacebookDisplayName</key>
+    <string>Neofect-connect</string>
+    <key>NSHealthShareUsageDescription</key>
+    <string>Please allow Rehabit to access to Health app.</string>
+    <key>NSHealthUpdateUsageDescription</key>
+    <string>Please allow Rehabit to access to Health app.</string>
+</dict>
+</plist>
